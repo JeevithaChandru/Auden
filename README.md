@@ -11,3 +11,17 @@ that are delimiter separated and UTF-8 encoded which have accompanied this task,
 via email in a compressed file called dev.zip.
 Your executable file to process the data should provide the ability to pass in multiple files as
 arguments and specify an output path for the results file.
+
+## Solution
+### Input files: 
+small_file_1.csv, small_file_2.csv, small_file_3.csv, small_file_4.csv, small_file_5.csv
+
+### Main program:
+execution.py
+
+### Output:
+output_file.csv
+
+### TDD: Testing
+test_execution.py
+
